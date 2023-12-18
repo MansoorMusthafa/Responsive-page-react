@@ -33,7 +33,7 @@ function Navbar() {
                   }
                   onClick={closeMobileMenu}
                 >
-                  Personal Details
+                  Personal Detail
                 </NavLink>
               </li>
               <li className="nav-item">
